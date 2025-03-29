@@ -31,7 +31,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamilska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="92"/>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugisiska (Brasilien)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="98"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="../qml/pages/CalcPage.qml" line="219"/>
         <source>Calculate direct debts</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna direkt skulder</translation>
     </message>
     <message>
         <location filename="../qml/pages/CalcPage.qml" line="287"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="../qml/components/EditableMembersListAdder.qml" line="19"/>
         <source>New member name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny medlems namn</translation>
     </message>
 </context>
 <context>
@@ -309,7 +309,7 @@
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="549"/>
         <source>Additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare namn</translation>
     </message>
 </context>
 <context>

@@ -36,32 +36,32 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>Swedish</source>
-        <translation>rootsi</translation>
+        <translation>rootsi keel</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="92"/>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>portugali keel (Brasiilia)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="98"/>
         <source>Norwegian Bokmål</source>
-        <translation>norra bokmål</translation>
+        <translation>norra keel (bokmål)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="104"/>
         <source>Indonesian</source>
-        <translation>indoneesia</translation>
+        <translation>indoneesia keel</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="110"/>
         <source>German</source>
-        <translation>saksa</translation>
+        <translation>saksa keel</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Estonian</source>
-        <translation>eesti</translation>
+        <translation>eesti keel</translation>
     </message>
 </context>
 <context>
@@ -92,7 +92,7 @@
     <message>
         <location filename="../qml/pages/CalcPage.qml" line="219"/>
         <source>Calculate direct debts</source>
-        <translation type="unfinished"></translation>
+        <translation>Arvuta otsesed võlgnevused</translation>
     </message>
     <message>
         <location filename="../qml/pages/CalcPage.qml" line="287"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="../qml/components/EditableMembersListAdder.qml" line="19"/>
         <source>New member name</source>
-        <translation type="unfinished"></translation>
+        <translation>Uue osaleja nimi</translation>
     </message>
 </context>
 <context>
@@ -309,7 +309,7 @@
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="549"/>
         <source>Additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>Täiendav nimi</translation>
     </message>
 </context>
 <context>
