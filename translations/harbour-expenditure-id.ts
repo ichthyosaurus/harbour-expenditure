@@ -46,7 +46,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="131"/>
         <source>Brazilian Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugis Brasil</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="../qml/pages/CalcPage.qml" line="238"/>
         <source>Define base exchange rates below for the following currencies: %1. A one-to-one rate has been used in calculations</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentukan kurs tukar dasar di bawah untuk mata uang berikut: %1. Kurs satu banding satu telah digunakan dalam perhitungan</translation>
     </message>
     <message>
         <location filename="../qml/pages/CalcPage.qml" line="247"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../qml/pages/CalcPage.qml" line="253"/>
         <source>Calculate direct debts</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitung utang langsung</translation>
     </message>
     <message>
         <location filename="../qml/pages/CalcPage.qml" line="335"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="../qml/components/EditableMembersListAdder.qml" line="19"/>
         <source>New member name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama anggota baru</translation>
     </message>
 </context>
 <context>
@@ -255,82 +255,82 @@
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="192"/>
         <source>Discarded the entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Entri dibuang</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="205"/>
         <source>Add fees</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambahkan biaya</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="218"/>
         <source>Custom exchange rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurs tukar khusus</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="237"/>
         <source>Edit expense</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit pengeluaran</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="237"/>
         <source>New expense</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengeluaran baru</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="238"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpan</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="239"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Buang</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="243"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggal</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="263"/>
         <source>Expense</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengeluaran</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="274"/>
         <source>Price</source>
-        <translation type="unfinished"></translation>
+        <translation>Harga</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="304"/>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Mata uang</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="332"/>
         <source>Additional notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Catatan tambahan</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="390"/>
         <source>Payer</source>
-        <translation type="unfinished">Pembayar</translation>
+        <translation>Pembayar</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="398"/>
         <source>Beneficiaries</source>
-        <translation type="unfinished"></translation>
+        <translation>Penerima manfaat</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="427"/>
         <source>everyone</source>
-        <translation type="unfinished"></translation>
+        <translation>semua orang</translation>
     </message>
     <message>
         <location filename="../qml/pages/ExpenseDialog.qml" line="557"/>
         <source>Additional name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama tambahan</translation>
     </message>
 </context>
 <context>
@@ -339,7 +339,7 @@
         <location filename="../qml/components/FeesItem.qml" line="36"/>
         <location filename="../qml/components/FeesItem.qml" line="54"/>
         <source>Fees</source>
-        <translation type="unfinished"></translation>
+        <translation>Biaya</translation>
     </message>
 </context>
 <context>
@@ -347,17 +347,17 @@
     <message>
         <location filename="../qml/pages/FeesRatesPage.qml" line="72"/>
         <source>Transactions</source>
-        <translation type="unfinished"></translation>
+        <translation>Transaksi</translation>
     </message>
     <message>
         <location filename="../qml/pages/FeesRatesPage.qml" line="73"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpan</translation>
     </message>
     <message>
         <location filename="../qml/pages/FeesRatesPage.qml" line="74"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Buang</translation>
     </message>
 </context>
 <context>
@@ -365,27 +365,27 @@
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="63"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="201"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="217"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="67"/>
         <source>Calculate</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitung</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="38"/>
         <source>Expenses</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengeluaran</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="59"/>
@@ -395,17 +395,17 @@
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="91"/>
         <source>No entries yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Belum ada entri</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="99"/>
         <source>Add a project</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambah proyek</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="100"/>
         <source>Pull down to open the settings page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarik ke bawah untuk membuka halaman pengaturan.</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/pages/FirstPage.qml" line="117"/>
@@ -418,12 +418,12 @@
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="156"/>
         <source>set %1 → %2 exchange rate in project settings</source>
-        <translation type="unfinished"></translation>
+        <translation>atur kurs %1 → %2 di pengaturan proyek</translation>
     </message>
     <message>
         <location filename="../qml/pages/FirstPage.qml" line="92"/>
         <source>Swipe to the left to add an entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geser ke kiri untuk menambahkan entri.</translation>
     </message>
 </context>
 <context>
@@ -439,7 +439,7 @@
     <message>
         <location filename="../qml/components/LimitedDatePickerDialog.qml" line="19"/>
         <source>The date cannot be in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanggal tidak boleh di masa depan.</translation>
     </message>
 </context>
 <context>
@@ -447,7 +447,7 @@
     <message>
         <location filename="../qml/components/LimitedTimePickerDialog.qml" line="22"/>
         <source>The time has been reset. It cannot be in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>Waktu telah direset. Waktu tidak boleh di masa depan.</translation>
     </message>
 </context>
 <context>
@@ -668,12 +668,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin teks ke papan klip</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="55"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagikan</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
@@ -693,7 +693,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="15"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagikan tautan</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="50"/>
@@ -706,48 +706,48 @@
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="36"/>
         <source>Database upgrade failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Peningkatan basis data gagal</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="36"/>
         <source>An error occurred while upgrading the database from version %1 to version %2. Please report this issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terjadi kesalahan saat meningkatkan basis data dari versi %1 ke versi %2. Harap laporkan masalah ini.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="36"/>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="42"/>
         <source>Developer information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informasi pengembang:</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="38"/>
         <source>Invalid database version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi basis data tidak valid</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="38"/>
         <source>The app cannot start because the database has version %1 but only version %2 is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikasi tidak dapat dimulai karena basis data memiliki versi %1 tetapi hanya versi %2 yang didukung.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="40"/>
         <source>Database Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemeliharaan Basis Data</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="40"/>
         <source>Please be patient and allow up to 30 seconds for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Harap bersabar dan berikan waktu hingga 30 detik untuk ini.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="42"/>
         <source>Database issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Masalah basis data</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LocalStorage/MessageHandler.qml" line="42"/>
         <source>An unexpected issue occurred in the database. Try restarting the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terjadi masalah tak terduga pada basis data. Coba mulai ulang aplikasi.</translation>
     </message>
 </context>
 <context>
@@ -756,12 +756,12 @@
         <location filename="../qml/components/PrecisionSelector.qml" line="16"/>
         <location filename="../qml/components/PrecisionSelector.qml" line="22"/>
         <source>Decimal precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Presisi desimal</translation>
     </message>
     <message>
         <location filename="../qml/components/PrecisionSelector.qml" line="36"/>
         <source>Results are rounded to this number of decimal places. Set this to a value that makes sense with your currency.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasil dibulatkan ke jumlah tempat desimal ini. Atur ini ke nilai yang masuk akal untuk mata uang Anda.</translation>
     </message>
 </context>
 <context>
@@ -770,7 +770,7 @@
         <location filename="../qml/components/ProjectData.qml" line="112"/>
         <location filename="../qml/components/ProjectData.qml" line="171"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengguna</translation>
     </message>
 </context>
 <context>
@@ -779,7 +779,8 @@
         <location filename="../qml/py/PythonBackend.qml" line="32"/>
         <source>An error occurred in the Python backend.
 Please restart the app and check the logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terjadi kesalahan pada backend Python.
+Silakan mulai ulang aplikasi dan periksa log.</translation>
     </message>
 </context>
 <context>
@@ -787,121 +788,121 @@ Please restart the app and check the logs.</source>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="155"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="164"/>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyek</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="26"/>
         <source>New project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyek baru</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="51"/>
         <source>Export to</source>
         <comment>Page title for the backup output folder picker</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ekspor ke</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="60"/>
         <source>Exported expenses to “%1”</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengekspor pengeluaran ke “%1”</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="69"/>
         <source>Import expenses</source>
         <comment>Page title for the file import picker</comment>
-        <translation type="unfinished"></translation>
+        <translation>Impor pengeluaran</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="81"/>
         <source>Imported %1 expenses into “%2”.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengimpor %1 pengeluaran ke “%2”.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="85"/>
         <source>Failed to import “%1”.</source>
         <comment>%1 is a filename</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengimpor “%1”.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="144"/>
         <location filename="../qml/pages/SettingsPage.qml" line="185"/>
         <source>New project ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyek baru ...</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="231"/>
         <source>Name</source>
-        <translation type="unfinished">Nama</translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="267"/>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Mata uang</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="281"/>
         <source>The settlement suggestion is calculated in this currency. Select the most used currency in your group for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saran penyelesaian dihitung dalam mata uang ini. Pilih mata uang yang paling sering digunakan dalam grup Anda untuk ini.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="290"/>
         <source>Always show exchange rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Selalu tampilkan kurs</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="291"/>
         <source>If this option is enabled, the field for entering exchange rates is always shown when adding a new transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jika opsi ini diaktifkan, kolom untuk memasukkan kurs selalu ditampilkan saat menambahkan transaksi baru.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="304"/>
         <source>Always show fees</source>
-        <translation type="unfinished"></translation>
+        <translation>Selalu tampilkan biaya</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="305"/>
         <source>If this option is enabled, the field for entering fees is always shown when adding a new transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jika opsi ini diaktifkan, kolom untuk memasukkan biaya selalu ditampilkan saat menambahkan transaksi baru.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="318"/>
         <source>Project members</source>
-        <translation type="unfinished"></translation>
+        <translation>Anggota proyek</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="334"/>
         <source>Base exchange rates</source>
-        <translation type="unfinished">Nilai tukar dasar</translation>
+        <translation>Kurs tukar dasar</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="347"/>
         <source>Backup options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi cadangan</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="354"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Impor</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="358"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekspor</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="364"/>
         <source>You can import and export expenses of the current project to CSV. Project metadata is not included.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda dapat mengimpor dan mengekspor pengeluaran proyek saat ini ke CSV. Metadata proyek tidak disertakan.</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="366"/>
         <source>When importing, imported entries will be added to the current project and old entries will be kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat mengimpor, entri yang diimpor akan ditambahkan ke proyek saat ini dan entri lama akan dipertahankan.</translation>
     </message>
 </context>
 <context>
@@ -938,43 +939,43 @@ Please restart the app and check the logs.</source>
         <location filename="../qml/js/dates.js" line="11"/>
         <source>hh&apos;:&apos;mm</source>
         <comment>time only format, as in “10:00 o&apos;clock”, see https://doc.qt.io/archives/qt-5.15/qml-qtqml-date.html#format-strings</comment>
-        <translation type="unfinished"></translation>
+        <translation>hh&apos;:&apos;mm</translation>
     </message>
     <message>
         <location filename="../qml/js/dates.js" line="13"/>
         <source>d MMM yyyy, hh&apos;:&apos;mm</source>
         <comment>date and time format, as in “Dec. 1st 2023, 10:00 o&apos;clock”, see https://doc.qt.io/archives/qt-5.15/qml-qtqml-date.html#format-strings</comment>
-        <translation type="unfinished"></translation>
+        <translation>d MMM yyyy, hh&apos;:&apos;mm</translation>
     </message>
     <message>
         <location filename="../qml/js/dates.js" line="15"/>
         <source>ddd d MMM yyyy, hh&apos;:&apos;mm</source>
         <comment>full date and time format, as in “Fri., Dec. 1st 2023, 10:00 o&apos;clock”, see https://doc.qt.io/archives/qt-5.15/qml-qtqml-date.html#format-strings</comment>
-        <translation type="unfinished"></translation>
+        <translation>ddd d MMM yyyy, hh&apos;:&apos;mm</translation>
     </message>
     <message>
         <location filename="../qml/js/dates.js" line="17"/>
         <source>ddd d MMM yyyy</source>
         <comment>full date format, as in “Fri., Dec. 1st 2023”, see https://doc.qt.io/archives/qt-5.15/qml-qtqml-date.html#format-strings</comment>
-        <translation type="unfinished"></translation>
+        <translation>ddd d MMM yyyy</translation>
     </message>
     <message>
         <location filename="../qml/js/dates.js" line="19"/>
         <source>d MMM yyyy</source>
         <comment>date format, as in “Dec. 1st 2023”, see https://doc.qt.io/archives/qt-5.15/qml-qtqml-date.html#format-strings</comment>
-        <translation type="unfinished"></translation>
+        <translation>d MMM yyyy</translation>
     </message>
     <message>
         <location filename="../qml/js/dates.js" line="21"/>
         <source>d MMM</source>
         <comment>date format without year, as in “Dec. 1st”, see https://doc.qt.io/archives/qt-5.15/qml-qtqml-date.html#format-strings</comment>
-        <translation type="unfinished"></translation>
+        <translation>d MMM</translation>
     </message>
     <message>
         <location filename="../qml/js/dates.js" line="64"/>
         <source>%1 (%2)</source>
         <comment>1: date, 2: time zone info</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -982,13 +983,13 @@ Please restart the app and check the logs.</source>
     <message>
         <location filename="../qml/js/storage.js" line="840"/>
         <source>everyone</source>
-        <translation type="unfinished"></translation>
+        <translation>semua orang</translation>
     </message>
     <message>
         <location filename="../qml/js/storage.js" line="633"/>
         <location filename="../qml/js/storage.js" line="699"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengguna</translation>
     </message>
 </context>
 </TS>
