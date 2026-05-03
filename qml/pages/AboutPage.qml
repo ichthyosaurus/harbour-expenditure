@@ -1,6 +1,6 @@
 /*
  * This file is part of harbour-expenditure.
- * SPDX-FileCopyrightText: 2024-2025 Mirian Margiani
+ * SPDX-FileCopyrightText: 2024-2026 Mirian Margiani
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -27,7 +27,6 @@ A.AboutPageBase {
     appVersion: APP_VERSION
     appRelease: APP_RELEASE
 
-    allowDownloadingLicenses: false
     sourcesUrl: "https://github.com/ichthyosaurus/%1".arg("harbour-" + Qt.application.name)
     homepageUrl: "https://forum.sailfishos.org/t/apps-by-ichthyosaurus/15753"
     translationsUrl: "https://hosted.weblate.org/projects/%1".arg("harbour-" + Qt.application.name)
@@ -44,7 +43,6 @@ A.AboutPageBase {
 
     description: qsTr("A simple app for tracking expenses in groups.")
     mainAttributions: ["2023-%1 Mirian Margiani".arg((new Date()).getFullYear()), "2022 Tobias Planitzer"]
-    autoAddOpalAttributions: true
 
     attributions: [
         A.Attribution {
