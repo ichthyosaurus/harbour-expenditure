@@ -12,7 +12,7 @@ Release: 1
 # The contents of the Group field should be one of the groups listed here:
 # https://github.com/mer-tools/spectacle/blob/master/data/GROUPS
 Group: Applications/Productivity
-URL: https://github.com/ichthyosaurus/harbour-expenditure
+URL: https://codeberg.org/ichthyosaurus/harbour-expenditure
 License: GPL-3.0-or-later
 
 # This must be generated before uploading a package to a remote build service.
@@ -29,17 +29,17 @@ Description: |
   Categories:
   - Office
   Custom:
-    Repo: https://github.com/ichthyosaurus/harbour-expenditure
-  PackageIcon: https://github.com/ichthyosaurus/harbour-expenditure/raw/main/icons/172x172/harbour-expenditure.png
+    Repo: https://codeberg.org/ichthyosaurus/harbour-expenditure
+  PackageIcon: https://codeberg.org/ichthyosaurus/sailfish-app-assets/raw/branch/main/harbour-expenditure/app-icon.png
   Screenshots:
-  - https://github.com/ichthyosaurus/harbour-expenditure/raw/main/dist/screenshots-openrepos/screenshot-01.jpg
-  - https://github.com/ichthyosaurus/harbour-expenditure/raw/main/dist/screenshots-openrepos/screenshot-02.jpg
-  - https://github.com/ichthyosaurus/harbour-expenditure/raw/main/dist/screenshots-openrepos/screenshot-03.jpg
-  - https://github.com/ichthyosaurus/harbour-expenditure/raw/main/dist/screenshots-openrepos/screenshot-04.jpg
+  - https://codeberg.org/ichthyosaurus/sailfish-app-assets/raw/branch/main/harbour-expenditure/screenshots-openrepos/screenshot-01.jpg
+  - https://codeberg.org/ichthyosaurus/sailfish-app-assets/raw/branch/main/harbour-expenditure/screenshots-openrepos/screenshot-02.jpg
+  - https://codeberg.org/ichthyosaurus/sailfish-app-assets/raw/branch/main/harbour-expenditure/screenshots-openrepos/screenshot-03.jpg
+  - https://codeberg.org/ichthyosaurus/sailfish-app-assets/raw/branch/main/harbour-expenditure/screenshots-openrepos/screenshot-04.jpg
   Links:
-    Homepage: https://github.com/ichthyosaurus/harbour-expenditure
+    Homepage: https://codeberg.org/ichthyosaurus/harbour-expenditure
     Help: https://forum.sailfishos.org/t/apps-by-ichthyosaurus/15753
-    Bugtracker: https://github.com/ichthyosaurus/harbour-expenditure/issues
+    Bugtracker: https://codeberg.org/ichthyosaurus/harbour-expenditure/issues
     Donation: https://liberapay.com/ichthyosaurus
   %endif
 
