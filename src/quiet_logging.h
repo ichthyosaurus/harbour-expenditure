@@ -1,7 +1,7 @@
 /*
  * This file is part of harbour-expenditure.
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2025 Mirian Margiani
+ * SPDX-FileCopyrightText: 2025-2026 Mirian Margiani
  */
 
 #ifndef QUIET_LOGGING_H
@@ -38,7 +38,7 @@ namespace {
     }
 }
 
-void setupLogging() {
+inline void setupLogging() {
     qInstallMessageHandler(logWithoutSpam);
 }
 
