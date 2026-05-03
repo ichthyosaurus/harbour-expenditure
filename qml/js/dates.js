@@ -1,7 +1,7 @@
 /*
  * This file is part of harbour-expenditure.
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2024 Mirian Margiani
+ * SPDX-FileCopyrightText: 2024-2026 Mirian Margiani
  */
 
 .pragma library
@@ -54,11 +54,23 @@ function parseDate(dbDateString) {
 }
 
 function formatDate(dbDateString, format, zone, alternativeIfEmpty) {
-    if (dbDateString === "" && alternativeIfEmpty !== "" && !!alternativeIfEmpty) {
-        return alternativeIfEmpty
+    var date = null
+
+    if (dbDateString instanceof Date) {
+        if (isNaN(dbDateString)) {
+            return alternativeIfEmpty
+        }
+
+        date = dbDateString
+    } else {
+        if (dbDateString === "" && alternativeIfEmpty !== "" && !!alternativeIfEmpty) {
+            return alternativeIfEmpty
+        }
+
+        date = parseDate(dbDateString)
     }
 
-    var date = parseDate(dbDateString).toLocaleString(Qt.locale(), format)
+    date = date.toLocaleString(Qt.locale(), format)
 
     if (zone !== undefined && zone !== "" && zone !== getTimezone()) {
         return qsTr("%1 (%2)", "1: date, 2: time zone info").arg(date).arg(zone)
